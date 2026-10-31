@@ -1,0 +1,1 @@
+gnani-vachana>=0.7.7

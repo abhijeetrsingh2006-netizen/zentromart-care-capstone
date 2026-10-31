@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+tools/tickets_created.csv
+.env
+voice_samples/
